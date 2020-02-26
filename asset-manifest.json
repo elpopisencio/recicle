@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/recicle/static/css/main.26bf7201.chunk.css",
-    "main.js": "/recicle/static/js/main.50776241.chunk.js",
-    "main.js.map": "/recicle/static/js/main.50776241.chunk.js.map",
+    "main.js": "/recicle/static/js/main.e4dfc108.chunk.js",
+    "main.js.map": "/recicle/static/js/main.e4dfc108.chunk.js.map",
     "runtime-main.js": "/recicle/static/js/runtime-main.3d8efc0e.js",
     "runtime-main.js.map": "/recicle/static/js/runtime-main.3d8efc0e.js.map",
     "static/js/2.893318b2.chunk.js": "/recicle/static/js/2.893318b2.chunk.js",
     "static/js/2.893318b2.chunk.js.map": "/recicle/static/js/2.893318b2.chunk.js.map",
     "index.html": "/recicle/index.html",
-    "precache-manifest.ec0b2f62d383eab8619a92e34a31bb70.js": "/recicle/precache-manifest.ec0b2f62d383eab8619a92e34a31bb70.js",
+    "precache-manifest.3d04f6cecdbb6ae6662ffe51f8b84a5b.js": "/recicle/precache-manifest.3d04f6cecdbb6ae6662ffe51f8b84a5b.js",
     "service-worker.js": "/recicle/service-worker.js",
     "static/css/main.26bf7201.chunk.css.map": "/recicle/static/css/main.26bf7201.chunk.css.map",
     "static/js/2.893318b2.chunk.js.LICENSE.txt": "/recicle/static/js/2.893318b2.chunk.js.LICENSE.txt",
@@ -36,6 +36,6 @@
     "static/js/runtime-main.3d8efc0e.js",
     "static/js/2.893318b2.chunk.js",
     "static/css/main.26bf7201.chunk.css",
-    "static/js/main.50776241.chunk.js"
+    "static/js/main.e4dfc108.chunk.js"
   ]
 }
